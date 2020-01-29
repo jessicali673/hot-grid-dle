@@ -26,3 +26,17 @@ body {
   display: block;
   width: 100%;
 }
+
+.img-flex {
+  position: relative;
+}
+
+p {
+  border-radius: 8px;
+  position: absolute;
+  bottom: 10%;
+  left: 10%;
+  max-width: 15em;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.75);
+}
